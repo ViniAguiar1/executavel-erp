@@ -1,0 +1,16 @@
+# Ignorar node_modules (pastas de dependências do Node.js)
+node_modules/
+
+# Ignorar diretórios de build
+dist/
+build/
+
+# Ignorar arquivos de configuração de ambiente
+.env
+.env.local
+
+# Ignorar logs
+*.log
+
+# Ignorar binários como executáveis
+*.exe
